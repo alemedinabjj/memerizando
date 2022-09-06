@@ -10,7 +10,6 @@
 Website para fazer upload de memes, ou imagens em geral.
 Utilizando firebase(storage) como banco.
 
-- site final: [Memerizando](https://memerizando.vercel.app/) 
 
 ## 🚀 Tecnologias
 
