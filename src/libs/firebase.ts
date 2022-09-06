@@ -1,6 +1,7 @@
 import { initializeApp } from 'firebase/app'
 import { getStorage } from 'firebase/storage'
 
+
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_APP_FIREBASE_APIKEY,
   authDomain: import.meta.env.VITE_APP_FIREBASE_AUTHDOMAIN,
